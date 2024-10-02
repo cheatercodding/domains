@@ -25,3 +25,26 @@ domain18 = "WEB16.COM"
 domain19 = "ADDRESS19.COM"
 domain20 = "ADDRESS20.COM"
 
+# Sonuçları ekrana yazdıran
+print(domain1)
+print(domain2)
+print(domain3)
+print(domain4)
+print(domain5)
+print(domain6)
+print(domain7)
+print(domain8)
+print(domain9)
+print(domain10)
+print(domain11)
+print(domain12)
+print(domain13)
+print(domain14)
+print(domain15)
+print(domain16)
+print(domain17)
+print(domain18)
+print(domain19)
+print(domain20)
+
+
